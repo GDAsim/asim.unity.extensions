@@ -1,5 +1,5 @@
 {
-  "name": "com.asim.extensions",
+  "name": "@gdasim/asim.extensions",
   "version": "0.1.0",
   "displayName": "Asim Extensions",
   "description": "Asim Extensions",
@@ -10,5 +10,19 @@
     "extension",
     "2d"
   ],
-  "type": "library"
+  "type": "library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDAsim/com.asim.extensions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GDAsim/com.asim.extensions/issues"
+  },
+  "homepage": "https://github.com/GDAsim/com.asim.extensions#readme"
 }
