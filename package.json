@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/GDAsim/com.asim.extensions/issues"
   },
+    "publishConfig": {
+   "@gdasim:registry": "https://npm.pkg.github.com"
+ },
   "homepage": "https://github.com/GDAsim/com.asim.extensions#readme"
 }
