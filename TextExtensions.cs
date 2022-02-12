@@ -1,4 +1,4 @@
-namespace asim.extensions
+namespace asim.unity.extensions
 {
     /// <summary>
     /// Extension class for everything to do with text

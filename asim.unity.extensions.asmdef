@@ -1,6 +1,6 @@
 {
-    "name": "asim.extensions",
-    "rootNamespace": "asim",
+    "name": "asim.unity.extensions",
+    "rootNamespace": "asim.unity",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

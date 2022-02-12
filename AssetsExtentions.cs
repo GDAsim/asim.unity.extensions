@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace asim.extensions
+namespace asim.unity.extensions
 {
 	/// <summary>
 	/// Extension Class for Unity Assets/StreamingAssets/Resources etc..

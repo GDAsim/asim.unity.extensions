@@ -1,8 +1,9 @@
 using System.Collections.Generic;
 using System.Linq;
+
 using UnityEngine;
 
-namespace asim.extensions
+namespace asim.unity.extensions
 {
     /// <summary>
     /// Extension class for everything to do with collections, list, dictionarys etc..
