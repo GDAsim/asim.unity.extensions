@@ -1,14 +1,14 @@
 {
   "name": "asim.unity.extensions",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "displayName": "Asim Unity Extensions",
   "description": "Asim Extensions",
   "unity": "2020.3",
   "unityRelease": "26f1",
   "keywords": [
     "asim",
-	"unity",
-	"extension",
+	  "unity",
+	  "extension",
     "extensions"
   ],
   "type": "library",
