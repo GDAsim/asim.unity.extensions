@@ -1,25 +1,25 @@
 {
   "name": "asim.unity.extensions",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "displayName": "Asim Unity Extensions",
   "description": "Asim Extensions",
   "unity": "2020.3",
   "unityRelease": "26f1",
   "keywords": [
     "asim",
-	  "unity",
-	  "extension",
+    "unity",
+    "extension",
     "extensions"
   ],
   "type": "library",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GDAsim/com.asim.extensions.git"
+    "url": "git+https://github.com/GDAsim/asim.unity.extensions.git"
   },
   "author": "GDAsim <gamedevelopementasim@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GDAsim/com.asim.extensions/issues"
+    "url": "https://github.com/GDAsim/asim.unity.extensions/issues"
   },
-  "homepage": "https://github.com/GDAsim/com.asim.extensions#readme"
+  "homepage": "https://github.com/GDAsim/asim.unity.extensions#readme"
 }
